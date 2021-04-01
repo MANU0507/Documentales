@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/telemax.png" ,Telemax
+https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
